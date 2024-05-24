@@ -1,0 +1,8 @@
+/Users/admin/IdeaProjects/springkafkaexample/plant-service/src/main/java/ru/openschool/plantservice/PlantServiceApplication.java
+/Users/admin/IdeaProjects/springkafkaexample/plant-service/src/main/java/ru/openschool/plantservice/service/PlantService.java
+/Users/admin/IdeaProjects/springkafkaexample/plant-service/src/main/java/ru/openschool/plantservice/controller/impl/PlantControllerImpl.java
+/Users/admin/IdeaProjects/springkafkaexample/plant-service/src/main/java/ru/openschool/plantservice/repository/PlantRepository.java
+/Users/admin/IdeaProjects/springkafkaexample/plant-service/src/main/java/ru/openschool/plantservice/model/Plant.java
+/Users/admin/IdeaProjects/springkafkaexample/plant-service/src/main/java/ru/openschool/plantservice/converter/PlantConverter.java
+/Users/admin/IdeaProjects/springkafkaexample/plant-service/src/main/java/ru/openschool/plantservice/controller/PlantController.java
+/Users/admin/IdeaProjects/springkafkaexample/plant-service/src/main/java/ru/openschool/plantservice/service/impl/PlantServiceImpl.java

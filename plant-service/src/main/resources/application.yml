@@ -1,3 +1,6 @@
+server:
+  port: 8080
+
 spring:
   application:
     name: OpenSchool1
@@ -6,8 +9,6 @@ spring:
     username: openSchool1
     password: openSchool1
     driverClassName: org.postgresql.Driver
-server:
-  port: 8081
 
 aspect.enabled: true
 management:

@@ -1,0 +1,6 @@
+/Users/admin/IdeaProjects/springkafkaexample/metrics-producer-service/src/main/java/ru/openschool/metricsproducerservice/config/RestClientConfig.java
+/Users/admin/IdeaProjects/springkafkaexample/metrics-producer-service/src/main/java/ru/openschool/metricsproducerservice/scheduler/PlantMetricScheduler.java
+/Users/admin/IdeaProjects/springkafkaexample/metrics-producer-service/src/main/java/ru/openschool/metricsproducerservice/producer/MetricsProducer.java
+/Users/admin/IdeaProjects/springkafkaexample/metrics-producer-service/src/main/java/ru/openschool/metricsproducerservice/client/PlantMetricClient.java
+/Users/admin/IdeaProjects/springkafkaexample/metrics-producer-service/src/main/java/ru/openschool/metricsproducerservice/config/KafkaTopicConfig.java
+/Users/admin/IdeaProjects/springkafkaexample/metrics-producer-service/src/main/java/ru/openschool/metricsproducerservice/MetricsProducerServiceApplication.java

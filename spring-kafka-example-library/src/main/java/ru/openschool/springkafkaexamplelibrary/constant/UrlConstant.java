@@ -16,4 +16,6 @@ public final class UrlConstant {
     public static final String PATH_VARIABLE_ID = "id";
     public static final String PATH_VARIABLE_ID_URL = SLASH +
             OPENING_CURLY_BRACE + PATH_VARIABLE_ID + CLOSING_CURLY_BRACE;
+
+    public static final String METRIC_URL = "metric";
 }

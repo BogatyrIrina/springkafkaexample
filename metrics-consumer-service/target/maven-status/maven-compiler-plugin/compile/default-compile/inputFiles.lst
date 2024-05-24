@@ -1,0 +1,14 @@
+/Users/admin/IdeaProjects/springkafkaexample/metrics-consumer-service/src/main/java/ru/openschool/metricsconsumerservice/model/Measurement.java
+/Users/admin/IdeaProjects/springkafkaexample/metrics-consumer-service/src/main/java/ru/openschool/metricsconsumerservice/MetricsConsumerServiceApplication.java
+/Users/admin/IdeaProjects/springkafkaexample/metrics-consumer-service/src/main/java/ru/openschool/metricsconsumerservice/controller/impl/MetricControllerImpl.java
+/Users/admin/IdeaProjects/springkafkaexample/metrics-consumer-service/src/main/java/ru/openschool/metricsconsumerservice/controller/MetricController.java
+/Users/admin/IdeaProjects/springkafkaexample/metrics-consumer-service/src/main/java/ru/openschool/metricsconsumerservice/service/MetricService.java
+/Users/admin/IdeaProjects/springkafkaexample/metrics-consumer-service/src/main/java/ru/openschool/metricsconsumerservice/consumer/PlantMetricConsumer.java
+/Users/admin/IdeaProjects/springkafkaexample/metrics-consumer-service/src/main/java/ru/openschool/metricsconsumerservice/model/Value.java
+/Users/admin/IdeaProjects/springkafkaexample/metrics-consumer-service/src/main/java/ru/openschool/metricsconsumerservice/converter/MetricConverter.java
+/Users/admin/IdeaProjects/springkafkaexample/metrics-consumer-service/src/main/java/ru/openschool/metricsconsumerservice/service/impl/MetricServiceImpl.java
+/Users/admin/IdeaProjects/springkafkaexample/metrics-consumer-service/src/main/java/ru/openschool/metricsconsumerservice/model/Metric.java
+/Users/admin/IdeaProjects/springkafkaexample/metrics-consumer-service/src/main/java/ru/openschool/metricsconsumerservice/constant/ColumnConstant.java
+/Users/admin/IdeaProjects/springkafkaexample/metrics-consumer-service/src/main/java/ru/openschool/metricsconsumerservice/constant/TableConstant.java
+/Users/admin/IdeaProjects/springkafkaexample/metrics-consumer-service/src/main/java/ru/openschool/metricsconsumerservice/model/AvailableTag.java
+/Users/admin/IdeaProjects/springkafkaexample/metrics-consumer-service/src/main/java/ru/openschool/metricsconsumerservice/repository/MetricRepository.java

@@ -1,0 +1,6 @@
+ru/openschool/metricsproducerservice/config/KafkaTopicConfig.class
+ru/openschool/metricsproducerservice/config/RestClientConfig.class
+ru/openschool/metricsproducerservice/MetricsProducerServiceApplication.class
+ru/openschool/metricsproducerservice/client/PlantMetricClient.class
+ru/openschool/metricsproducerservice/scheduler/PlantMetricScheduler.class
+ru/openschool/metricsproducerservice/producer/MetricsProducer.class

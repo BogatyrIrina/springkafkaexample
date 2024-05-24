@@ -1,0 +1,9 @@
+ru/openschool/plantservice/converter/PlantConverter.class
+ru/openschool/plantservice/repository/PlantRepository.class
+ru/openschool/plantservice/PlantServiceApplication.class
+ru/openschool/plantservice/service/impl/PlantServiceImpl.class
+ru/openschool/plantservice/model/Plant$PlantBuilder.class
+ru/openschool/plantservice/controller/PlantController.class
+ru/openschool/plantservice/model/Plant.class
+ru/openschool/plantservice/service/PlantService.class
+ru/openschool/plantservice/controller/impl/PlantControllerImpl.class
